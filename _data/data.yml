@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: junguidam@naver.com
     phone: +82 10 2832 7349
-    website: github.com/UiDam/online-cv #do not add http://
+    website: uidam.github.io/online-cv/# #do not add http://
     github: UiDam
 
     languages:
@@ -89,16 +89,18 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+          
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Patents
+    intro: >       # not use yet
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Wafer Bonding Structure with Metal Wiring Embedded 
+        tagline: UiDam Jung et al. (2019)
+        
+    assignments:
+      - title: SEMICONDUCTOR DEVICE
+        tagline: UiDam Jung et al. (2019)
+
 
 publications:
     title: Publications
@@ -112,6 +114,7 @@ publications:
         authors: UiDam Jung et al.
         conference: Samsung Best Paper Award, 2020
 
+# do not use
 patents:
     title: Patents
     
