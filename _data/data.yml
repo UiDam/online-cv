@@ -52,35 +52,24 @@ education:
           - Bullet point
 
 experiences:
-    - role: Engineer
+    - role: Engineer, Flash Technology Development Team
       time: 2018 - Present
-      company: Startup Hubs, San Francisco
+      company: Samsung Electronics Device Solution, Hwaseong
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+            Process Integration Tasks of Samsung V-NAND Flash Memory Device Development
+        
+          - Samsung V-NAND Flash Memory Device 8th Generation Devlopoment Project
+          - Samsung Wafer Bonding V-NAND Memory Device Development Project
+    - role: Engineer, Flash Process Architecture Team
+      time: 2018 - 2019
+      company: Samsung Electronics Device Solution, Pyeongtaek
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        	Samsung V-NAND Flash Memory Device 6th Generation Development Project; set the Generation 6 product
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Engineer, Flash Process Integration Group 
+      time: 2018 - 2018
+      company: Samsung Electronics Device Solution, Pyeongtaek
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
